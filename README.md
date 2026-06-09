@@ -2,7 +2,7 @@
 
 # 🎀 Hello, I'm Konouz 🎀
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0c2d6dXJubmN5ZmFzN2F4a3Y4aWRhYzJ5YzR1dTRhZmM4dG91eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="180"/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0c2d6dXJubmN5ZmFzN2F4a3Y4aWRhYzJ5YzR1dTRhZmM4dG91eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif](https://i.pinimg.com/1200x/bd/b9/89/bdb9893adaaa0b7e072370fac03fe433.jpg)" width="180"/>
 
 ### 💖 AI Engineer • Machine Learning Enthusiast • Builder of Smart Things 💖
 
@@ -34,7 +34,7 @@
 ```yaml
 Name: Konouz
 Role: AI Engineer
-Location: 🌍 Earth
+Location: 🌍 Cairo
 Favorite Language: Python 🐍
 Current Focus:
   - Building AI Agents
@@ -65,17 +65,6 @@ Current Focus:
 ![Git](https://img.shields.io/badge/Git-f8c8dc?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</p>
 
 ---
 
