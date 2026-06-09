@@ -2,9 +2,10 @@
 
 # 🎀 Hello, I'm Konouz 🎀
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0c2d6dXJubmN5ZmFzN2F4a3Y4aWRhYzJ5YzR1dTRhZmM4dG91eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif](https://i.pinimg.com/1200x/bd/b9/89/bdb9893adaaa0b7e072370fac03fe433.jpg)" width="180"/>
+<img width="498" height="498" alt="5de85a4c5ddcab30679c90323e64ee00" src="https://github.com/user-attachments/assets/8b2781ce-106c-4c5c-89d6-c02d8551f274" />
 
-### 💖 AI Engineer • Machine Learning Enthusiast • Builder of Smart Things 💖
+
+### 💖 AI Engineer • Builder of Smart Things 💖
 
 *"Making machines a little smarter every day."* ✨
 
